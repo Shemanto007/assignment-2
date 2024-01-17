@@ -1,0 +1,170 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+
+
+nav .special {
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+
+
+
+nav h2 {
+    color: #131318;
+
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.nav-container {
+    width: 50%;
+    display: flex;
+
+}
+
+.nav-container-items {
+    width: 50%;
+
+
+
+}
+
+.nav-container-items,
+a {
+    text-decoration: none;
+    padding: 10px;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #424247;
+}
+
+.banner img {
+
+    width: 100%;
+}
+
+.banner {
+    position: relative;
+    color: #FFF;
+
+
+
+
+}
+
+.banner-content h2 {
+    color: #FFF;
+
+    font-family: Mulish;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800
+}
+
+.banner-content p {
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.banner-content {
+    position: absolute;
+    margin: 0 auto;
+    top: 50px;
+    padding: 106px 287px 106px 287px;
+    justify-content: center;
+    align-items: center;
+}
+
+.tour img {
+    width: 540px;
+    height: 560px;
+}
+
+.tour-description h2 {
+    color: #131318;
+
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800
+}
+
+.tour-description li {
+    color: rgba(19, 19, 24, 0.70);
+
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.tour-description p {
+    color: rgba(19, 19, 24, 0.70);
+
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.tour {
+    display: flex;
+    padding: 40px;
+}
+
+.destination {
+    justify-content: center;
+
+    align-items: center;
+}
+
+.destination h2 {
+    color: #131318;
+
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+
+.destination p {
+    Copy color: rgba(19, 19, 24, 0.70);
+
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.item-pic-1 {
+    display: flex;
+    gap: 10px;
+    padding: 10px 10px;
+}
+
+.item-pic-2 {
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.item-pic-3 {
+    justify-content: stretch;
+}
